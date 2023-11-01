@@ -21,7 +21,7 @@ public class Main {
         } else if (deliveryDistance > 60 && deliveryDistance < 100) {
             System.out.println("Потребуется дней: " + (3 * day) );
         } else {
-            System.out.println("Доставки нет");
+            System.out.println("Доставки нет ");
         }
     }
 
@@ -55,6 +55,7 @@ public class Main {
         int os = 1;
         vers(os,year);
         System.out.println("Задача 3");
+
 
         distan(95);
 
