@@ -56,6 +56,7 @@ public class Main {
         vers(os,year);
         System.out.println("Задача 3");
 
+
         distan(95);
 
 
